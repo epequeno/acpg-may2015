@@ -5,11 +5,13 @@ Install stats:
 before install (with only virtualenv):
 
 `(.acpg)~/c/acpg-may2015 (master) $ du -sh
+
 9.9M`	
 
 after install using "pip install -r requirements.txt"
 
 `(.acpg)~/c/acpg-may2015 (master) $ du -sh
+
 93M`
 
 time to install: 
