@@ -11,7 +11,6 @@ before install (with only virtualenv):
 after install using "pip install -r requirements.txt"
 ```
 (.acpg)~/c/acpg-may2015 (master) $ du -sh
-
 93M
 ```
 
