@@ -1,3 +1,9 @@
-
+# virtualenv
 .acpg
+
+# IPython stuff
 .ipynb_checkpoints
+
+# public data
+*.zip
+*.xls
