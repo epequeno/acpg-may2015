@@ -12,11 +12,11 @@ before install (with only virtualenv):
 after install using "pip install -r requirements.txt"
 ```
 (.acpg)~/c/acpg-may2015 (master) $ du -sh
-169M
+165M
 ```
 
 time to install: 
 ```
-634.59user 18.75system 11:24.38elapsed 95%CPU
+439.18user 15.27system 7:35.61elapsed 99%CPU
 ```
 
