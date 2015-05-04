@@ -19,8 +19,20 @@ after install using "pip --no-cache-dir install -r requirements.txt"
 165M
 ```
 
-time to install: 
+after install using "pip --no-cache-dir install -r requirements-extra.txt"
+```
+(.acpg)~/c/acpg-may2015 (master) $ du -sh
+231M
+```
+
+time to install requirements.txt: 
 ```
 439.18user 15.27system 7:35.61elapsed 99%CPU
 ```
 
+***Note***: installing extras (like seaborn) will also require a fortran compiler.
+
+time to install requirements-extra.txt: 
+```
+439.18user 15.27system 7:35.61elapsed 99%CPU
+```
