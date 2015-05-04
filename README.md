@@ -10,10 +10,10 @@ Install stats:
 before install (with only virtualenv):
 ```
 (.acpg)~/c/acpg-may2015 (master) $ du -sh
-9.9M
+11M
 ```
 
-after install using "pip install -r requirements.txt"
+after install using "pip --no-cache-dir install -r requirements.txt"
 ```
 (.acpg)~/c/acpg-may2015 (master) $ du -sh
 165M
