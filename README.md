@@ -34,5 +34,5 @@ time to install requirements.txt:
 
 time to install requirements-extra.txt: 
 ```
-439.18user 15.27system 7:35.61elapsed 99%CPU
+917.67user 33.22system 16:17.28elapsed 97%CPU
 ```
