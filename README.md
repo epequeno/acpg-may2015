@@ -22,7 +22,7 @@ after install using "pip --no-cache-dir install -r requirements.txt"
 after install using "pip --no-cache-dir install -r requirements-extra.txt"
 ```
 (.acpg)~/c/acpg-may2015 (master) $ du -sh
-231M
+268M
 ```
 
 time to install requirements.txt: 
