@@ -30,7 +30,8 @@ time to install requirements.txt:
 439.18user 15.27system 7:35.61elapsed 99%CPU
 ```
 
-***Note***: installing extras (like seaborn) will also require a fortran compiler.
+***Note***: Installing extras (Seaborn, ggplot, bokeh) will also require
+installing system packages (lapack/blas, fortran compiler).
 
 time to install requirements-extra.txt: 
 ```
