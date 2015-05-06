@@ -4,6 +4,8 @@ Thursday May 7, 2015
 
 https://slides.com/estevanpequeno/acpg-may2015
 
+Status: finalized
+
 ---
 
 Install stats:
